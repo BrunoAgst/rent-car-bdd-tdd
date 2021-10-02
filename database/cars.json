@@ -1,0 +1,19 @@
+[{
+    "id": "8d445ae9-c599-4113-8e01-8419b1cd0b4b",
+    "name": "Focus",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+}, {
+    "id": "b3ad3657-765b-4dd8-9fab-a6b036d95675",
+    "name": "Countach",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+}, {
+    "id": "951a6326-1af0-4483-be5c-d557f118d265",
+    "name": "A4",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+}]
